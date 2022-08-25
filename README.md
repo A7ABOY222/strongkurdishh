@@ -1,0 +1,2 @@
+# strongkurdishh
+Kurdish web
