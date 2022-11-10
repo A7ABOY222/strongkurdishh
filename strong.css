@@ -1,0 +1,32 @@
+table, th, td{
+border: 2px solid blue;
+border-collapse: collapse
+padding: 10px;
+}
+
+th, td{
+background: black;
+color: white;
+size: 50px;
+}
+
+
+
+table, th, td{
+border: 2px solid blue;
+border-collapse: collapse
+padding: 10px;
+}
+
+
+
+table, tr, th{
+background: white;
+color: black;
+size: 50px;
+}
+
+h1{
+color: red;
+size: 50px;
+}
